@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Ghazi
 
-🚀 **Data Engineer Student @ UiA** | 💻 **Software Developer** | 📱 **React Native & .NET Enthusiast**
+ **Data Engineer Student @ UiA** |  **Software Developer** |  **React Native & .NET Enthusiast**
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Studying **Computer Engineering** at University of Agder  
-- 🌱 Currently learning **Web and App Development, APIs & DevOps**  
-- 🔨 Building **WorkTime** (shift & time management app)  
-- 🎯 Goal: Launching my first fullstack product in 2025  
+-  Studying **Computer Engineering** at University of Agder  
+-  Currently learning **Web and App Development, APIs & DevOps**  
+-  Building **Kraft** (Fitness app)  
 
 ---
 
@@ -47,7 +46,7 @@
 
 ### 📌 Featured Projects
 - 🔹 [**WorkTime**](https://github.com/GH4ZII/WorkTime) – Fullstack employee shift & time management app  
-- 🔹 More projects on the way 🚀  
+- 🔹 [**Kraft**](https://github.com/GH4ZII/Kraft) - Fitness App for tracking your workouts
 
 ---
 
