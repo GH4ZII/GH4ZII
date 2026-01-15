@@ -7,7 +7,8 @@
 ### 🧑‍💻 About Me
 -  Studying **Computer Engineering** at University of Agder  
 -  Currently learning **Web and App Development, APIs & DevOps**  
--  Building **Kraft** (Fitness app)  
+-  Building **Kraft** (Fitness app)
+-  Working on our bachelor thesis
 
 ---
 
