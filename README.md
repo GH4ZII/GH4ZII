@@ -63,13 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GH4ZII&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GH4ZII&layout=compact&theme=radical)
-
----
 
 ## 📌 Featured Projects
 
