@@ -14,7 +14,6 @@
 - 📱 Experienced with cross-platform mobile development using **React Native & Expo**
 - ⚙️ Focused on backend-centric architecture, API design, automation and system structure
 - 🚗 Built **CarMinder** — a vehicle maintenance management platform with web and mobile clients
-- 🗺️ Built **RoutePilot** — an advanced route optimization and logistics management platform
 - 🧪 Interested in system architecture, APIs, DevOps, automation and optimization systems
 - 📚 Bachelor thesis focused on **backend-centric thin-client architecture**
 
